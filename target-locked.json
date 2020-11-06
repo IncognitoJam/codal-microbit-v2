@@ -48,10 +48,10 @@
     "generate_hex": true, 
     "libraries": [
         {
-            "branch": "316a4830a67fe85f0ee1916a22856fb4ad486994", 
+            "branch": "86a12baf84508e3bf4b835271b6bee97b6e6a5cd", 
             "name": "codal-core", 
             "type": "git", 
-            "url": "https://github.com/lancaster-university/codal-core"
+            "url": "https://github.com/IncognitoJam/codal-core"
         }, 
         {
             "branch": "dff67e066e039358001ceafe406cc4dd902363c8", 
